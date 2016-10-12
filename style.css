@@ -4,8 +4,5 @@
   color: blue;
 }
 li {
-  color: #0000ff;
-  font-size: 30px;
-  text-shadow:2px 2px #ff000;
-  text-align: left;
+  text-shadow: 0 0 3px #FF0000
 }
